@@ -1,0 +1,5 @@
+{
+  "name": "LeadFlow CRM",
+  "description": "A lightweight, client-side lead management system with local storage persistence.",
+  "requestFramePermissions": []
+}
